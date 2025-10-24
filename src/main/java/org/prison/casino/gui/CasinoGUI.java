@@ -200,7 +200,7 @@ public class CasinoGUI {
             "",
             ChatColor.translateAlternateColorCodes('&', "&e&lᴄᴏᴍᴍᴇɴᴛ ɢᴀɢɴᴇʀ"),
             ChatColor.translateAlternateColorCodes('&', "&fVous pouvez gagner des &e&lCoins, &b&lTokens &fou,"),
-            ChatColor.translateAlternateColorCodes('&', "&a&lTickets Casino &f en obtenant &d3 symboles identiques"),
+            ChatColor.translateAlternateColorCodes('&', "&a&lTickets Casino &fen obtenant &d3 symboles identiques"),
             ChatColor.translateAlternateColorCodes('&', "&f(horizontalement, &fverticalement ou en diagonale)."),
             "",
             ChatColor.translateAlternateColorCodes('&', "&fChaque symbole identique supplémentaire"),
