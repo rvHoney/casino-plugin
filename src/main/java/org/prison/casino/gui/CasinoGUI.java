@@ -199,23 +199,23 @@ public class CasinoGUI {
             ChatColor.translateAlternateColorCodes('&', "&fUtilisez vos &a&lTickets Casino &fpour lancer la machine."),
             "",
             ChatColor.translateAlternateColorCodes('&', "&e&lᴄᴏᴍᴍᴇɴᴛ ɢᴀɢɴᴇʀ"),
-            ChatColor.translateAlternateColorCodes('&', "&fVous pouvez gagner des &e&lCoins, &e&bTokens &fou,"),
-            ChatColor.translateAlternateColorCodes('&', "&e&aTickets Casino &f en obtenant &c&l3 symboles identiques"),
+            ChatColor.translateAlternateColorCodes('&', "&fVous pouvez gagner des &e&lCoins, &b&lTokens &fou,"),
+            ChatColor.translateAlternateColorCodes('&', "&a&lTickets Casino &f en obtenant &d3 symboles identiques"),
             ChatColor.translateAlternateColorCodes('&', "&f(horizontalement, &fverticalement ou en diagonale)."),
             "",
             ChatColor.translateAlternateColorCodes('&', "&fChaque symbole identique supplémentaire"),
-            ChatColor.translateAlternateColorCodes('&', "&e&lajoute 1 au multiplicateur de gain."),
+            ChatColor.translateAlternateColorCodes('&', "&dajoute 1 au multiplicateur de gain."),
             "",
-            ChatColor.translateAlternateColorCodes('&', "&fAu dessus de &c&l4 symboles identiques,"),
+            ChatColor.translateAlternateColorCodes('&', "&fAu dessus de &d4 symboles identiques,"),
             ChatColor.translateAlternateColorCodes('&', "&fchaque symbole octroie un &a&lTickets Casino&f."),
             "",
             ChatColor.translateAlternateColorCodes('&', "&e&lѕʏᴍʙᴏʟᴇѕ &7(&fprobabilités et gains&7)"),
-            ChatColor.translateAlternateColorCodes('&', "&7- &8Charbon &7(&c0%&7) : &e100 Coins"),
-            ChatColor.translateAlternateColorCodes('&', "&7- &7Fer &7(&c10%&7) : &e200 Coins"),
-            ChatColor.translateAlternateColorCodes('&', "&7- &6Or &7(&c20%&7) : &e500 Coins"),
-            ChatColor.translateAlternateColorCodes('&', "&7- &bDiamant &7(&c30%&7) : &e1000 Coins"),
-            ChatColor.translateAlternateColorCodes('&', "&7- &aEmeraude &7(&c40%&7) : &a1 Tickets Casino"),
-            ChatColor.translateAlternateColorCodes('&', "&7- &dBalise &7(&c50%&7) : &b1000 Tokens")
+            ChatColor.translateAlternateColorCodes('&', "&7- &fCharbon &7(&f50%&7) : &e100 Coins"),
+            ChatColor.translateAlternateColorCodes('&', "&7- &fFer &7(&f40%&7) : &e200 Coins"),
+            ChatColor.translateAlternateColorCodes('&', "&7- &fOr &7(&f30%&7) : &e500 Coins"),
+            ChatColor.translateAlternateColorCodes('&', "&7- &fDiamant &7(&f20%&7) : &e1000 Coins"),
+            ChatColor.translateAlternateColorCodes('&', "&7- &fEmeraude &7(&f10%&7) : &a1 Tickets Casino"),
+            ChatColor.translateAlternateColorCodes('&', "&7- &fBalise &7(&f5%&7) : &b1000 Tokens")
         ));
         howToPlay.setItemMeta(howToPlayMeta);
         inventory.setItem(36, howToPlay);
