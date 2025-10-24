@@ -1,0 +1,16 @@
+name: Casino
+version: '1.0-SNAPSHOT'
+main: org.prison.casino.Casino
+api-version: '1.21'
+
+commands:
+  adminpay:
+    description: "Donne de l'argent à un joueur (OP uniquement)"
+    usage: "/adminpay <pseudo> <moneyType> <amount>"
+    permission: "casino.admin"
+    permission-message: "Vous n'avez pas la permission d'utiliser cette commande!"
+  casino:
+    description: "Ouvre l'interface de la machine à sous"
+    usage: "/casino"
+    permission: "casino.use"
+    permission-message: "Vous n'avez pas la permission d'utiliser le casino!"

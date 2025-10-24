@@ -1,0 +1,10 @@
+# Configuration de la base de données MySQL pour le plugin Casino
+# Modifiez ces valeurs selon votre configuration MySQL
+
+# Paramètres de connexion MySQL
+database:
+  host: "localhost"
+  port: 3306
+  database: "prison"
+  username: "prison"
+  password: "prison"
